@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/k-kan/Documents/dev/555---OpenAPI/aimy_log'
+let g:netrw_dirhist_5='/Users/k-kan/Documents/dev/555---OpenAPI'
+let g:netrw_dirhist_4='/Users/k-kan/Documents/dev/555---OpenAPI/content_division'
+let g:netrw_dirhist_3='/Users/k-kan/Documents/900-contest/910-AtCoder/100-abc/DPmatome/a-flog'
+let g:netrw_dirhist_2='/Users/k-kan/Documents/dev/550---AIMY/git2/marsfinder_log_linkage/cfn'
+let g:netrw_dirhist_1='/Users/k-kan/.vim/bundles/repos/github.com/lambdalisue/fern.vim'
